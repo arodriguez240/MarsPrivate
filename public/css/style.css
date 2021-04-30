@@ -6,7 +6,7 @@
 .logo {
   position: relative;
   display: inline;
-  width: 13%;
+  width: 12rem;
   float: right;
 }
 #header {
@@ -14,7 +14,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 750px;
+  height: 680px;
 }
 #header h1 {
   color: whitesmoke;
@@ -245,6 +245,9 @@ video {
 @media (max-width: 552px) {
   .line-1 {
     font-size: 80%;
+  }
+  #header {
+    height: 380px;
   }
 }
 @media (min-width: 992px) {

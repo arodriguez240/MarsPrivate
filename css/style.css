@@ -2,11 +2,13 @@
   font-family: "Ubuntu", Arial, Helvetica, sans-serif;
   color: #ffffff;
 }
-
+#textarea {
+  width: 100% !important;
+}
 .logo {
   position: relative;
   display: inline;
-  width: 13%;
+  width: 12rem;
   float: right;
 }
 #header {

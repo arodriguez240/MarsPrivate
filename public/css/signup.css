@@ -1,6 +1,9 @@
 * {
   color: rgb(83, 81, 81);
 }
+textarea {
+  width: 100%;
+}
 .form-control {
   height: 40px;
   box-shadow: none;
